@@ -1,2 +1,2 @@
 # CSE360RoboticsSimulation
-This is a robotics Simulation for lab1
+This is a repository holding information about lehigh Robotics
